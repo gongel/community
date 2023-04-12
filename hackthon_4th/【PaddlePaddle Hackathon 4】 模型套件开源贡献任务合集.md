@@ -125,7 +125,7 @@
 ### No.104：生成式API对齐HF，包括sample和contrastive_search <a name='task104'></a>
 
 - **技术标签：深度学习、Python、NLP**
-- **任务难度：基础⭐️⭐️**
+- **任务难度：进阶⭐️⭐️**
 - **详细描述：**
   - PaddleNLP[生成式API](https://github.com/PaddlePaddle/PaddleNLP/blob/v2.5.0/paddlenlp/transformers/generation_utils.py)功能对齐HuggingFace Transformers，重构[sample](https://github.com/huggingface/transformers/blob/v4.26.1/src/transformers/generation/utils.py#L2259)，新增[contrastive_search](https://github.com/huggingface/transformers/blob/v4.26.1/src/transformers/generation/utils.py#L1659)
 - **提交内容：**
